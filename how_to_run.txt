@@ -1,4 +1,0 @@
-Install UiPath Studio and Python on your system for working of the project. Create a account on rossum elis platform and fill those credentials in the credentials.json file in the blank space provided.
-Run the imprort and export workflow to get the data form the bills. 
-The Import and the export workflow be executed using UiPath Robot.
-To visualze expenses run the graphs.py file and import the required excel sheet downloaded which is stored in the d_Output data folder after you run the export workflow.
