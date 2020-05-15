@@ -1,1 +1,1 @@
-Place your bills pdf in the folder
+Place your bills pdf in this folder and run the import workflow
